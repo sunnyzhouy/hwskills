@@ -1,0 +1,4 @@
+interface:
+  display_name: "BLM DSTE Strategy"
+  short_description: "Huawei-style strategy and annual planning"
+  default_prompt: "Use $strategy-blm-dste-execution to draft a Huawei-style strategy and annual execution plan."

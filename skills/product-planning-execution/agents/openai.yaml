@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Planning"
+  short_description: "Roadmap and release planning execution"
+  default_prompt: "Use $product-planning-execution to turn strategy or market input into a product roadmap and release plan."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Principles"
+  short_description: "Huawei-style product planning principles"
+  default_prompt: "Use $huawei-product-principles to apply Huawei-style product planning principles to this roadmap or product planning problem."

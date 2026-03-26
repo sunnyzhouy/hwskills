@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Principles"
+  short_description: "Huawei-style market management principles"
+  default_prompt: "Use $huawei-market-principles to apply Huawei-style market management principles to this business question."

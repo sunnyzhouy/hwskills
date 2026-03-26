@@ -1,0 +1,4 @@
+interface:
+  display_name: "Service Principles"
+  short_description: "Huawei-style service management principles"
+  default_prompt: "Use $huawei-service-principles to apply Huawei-style service management principles to this service operating model problem."

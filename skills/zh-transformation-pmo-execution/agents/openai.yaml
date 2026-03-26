@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为变革 PMO 执行"
+  short_description: "华为式变革推进与治理执行"
+  default_prompt: "Use $zh-transformation-pmo-execution to build a Chinese Huawei-style transformation rollout and PMO plan."

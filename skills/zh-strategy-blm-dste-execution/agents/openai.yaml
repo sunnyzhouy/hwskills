@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为战略执行"
+  short_description: "华为式战略与年度规划执行"
+  default_prompt: "Use $zh-strategy-blm-dste-execution to draft a Chinese Huawei-style strategy and annual execution plan."

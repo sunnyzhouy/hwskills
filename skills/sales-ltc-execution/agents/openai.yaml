@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales LTC"
+  short_description: "Lead-to-cash operating model execution"
+  default_prompt: "Use $sales-ltc-execution to design a Huawei-style lead-to-cash execution flow for this business."

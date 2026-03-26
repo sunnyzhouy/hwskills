@@ -1,0 +1,4 @@
+interface:
+  display_name: "IPD Execution"
+  short_description: "Huawei-style product development execution"
+  default_prompt: "Use $product-development-ipd-execution to structure Huawei-style IPD product development execution for this work."

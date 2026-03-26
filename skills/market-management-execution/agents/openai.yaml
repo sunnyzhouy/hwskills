@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Management"
+  short_description: "Market segmentation and opportunity execution"
+  default_prompt: "Use $market-management-execution to structure Huawei-style market management and opportunity selection for this business."

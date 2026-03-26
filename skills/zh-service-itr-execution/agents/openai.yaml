@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为服务 ITR 执行"
+  short_description: "华为式问题到解决执行"
+  default_prompt: "Use $zh-service-itr-execution to design a Chinese Huawei-style issue-to-resolution service workflow for this organization."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Strategy Principles"
+  short_description: "Huawei-style strategic planning principles"
+  default_prompt: "Use $huawei-strategy-principles to apply Huawei-style strategic planning principles to this scenario."

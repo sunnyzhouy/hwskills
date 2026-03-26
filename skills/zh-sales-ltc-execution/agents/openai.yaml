@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为销售 LTC 执行"
+  short_description: "华为式线索到回款执行"
+  default_prompt: "Use $zh-sales-ltc-execution to design a Chinese Huawei-style lead-to-cash execution flow for this business."

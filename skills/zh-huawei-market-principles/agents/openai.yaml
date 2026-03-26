@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为市场原则"
+  short_description: "华为式市场管理原则层"
+  default_prompt: "Use $zh-huawei-market-principles to apply Chinese Huawei-style market management principles to this business question."

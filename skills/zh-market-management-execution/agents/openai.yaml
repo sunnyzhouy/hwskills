@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为市场执行"
+  short_description: "华为式市场管理与机会执行"
+  default_prompt: "Use $zh-market-management-execution to structure Chinese Huawei-style market management and opportunity selection for this business."

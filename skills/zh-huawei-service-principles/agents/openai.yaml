@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为服务原则"
+  short_description: "华为式服务管理原则层"
+  default_prompt: "Use $zh-huawei-service-principles to apply Chinese Huawei-style service management principles to this service operating model problem."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为方法总入口"
+  short_description: "华为式方法路由与执行入口"
+  default_prompt: "Use $zh-huawei-methods to choose the right Chinese Huawei-style planning or execution workflow for this problem."

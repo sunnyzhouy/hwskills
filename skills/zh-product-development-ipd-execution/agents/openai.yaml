@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为 IPD 执行"
+  short_description: "华为式产品研发执行"
+  default_prompt: "Use $zh-product-development-ipd-execution to structure Chinese Huawei-style IPD product development execution for this work."

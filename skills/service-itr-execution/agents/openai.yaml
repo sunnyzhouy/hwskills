@@ -1,0 +1,4 @@
+interface:
+  display_name: "Service ITR"
+  short_description: "Issue-to-resolution service execution"
+  default_prompt: "Use $service-itr-execution to design a Huawei-style issue-to-resolution service workflow for this organization."

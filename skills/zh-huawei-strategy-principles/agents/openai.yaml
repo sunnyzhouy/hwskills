@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为战略原则"
+  short_description: "华为式战略规划原则层"
+  default_prompt: "Use $zh-huawei-strategy-principles to apply Chinese Huawei-style strategic planning principles to this scenario."

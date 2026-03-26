@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为产品原则"
+  short_description: "华为式产品规划原则层"
+  default_prompt: "Use $zh-huawei-product-principles to apply Chinese Huawei-style product planning principles to this roadmap problem."

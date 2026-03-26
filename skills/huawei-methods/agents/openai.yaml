@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huawei Methods"
+  short_description: "Huawei-style strategy and execution router"
+  default_prompt: "Use $huawei-methods to choose the right Huawei-style planning or execution workflow for this problem."

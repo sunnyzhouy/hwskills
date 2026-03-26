@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transformation PMO"
+  short_description: "Transformation rollout and governance execution"
+  default_prompt: "Use $transformation-pmo-execution to build a Huawei-style transformation rollout and PMO plan."

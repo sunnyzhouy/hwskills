@@ -1,0 +1,4 @@
+interface:
+  display_name: "华为产品规划执行"
+  short_description: "华为式路标与版本规划执行"
+  default_prompt: "Use $zh-product-planning-execution to turn strategy or market input into a Chinese Huawei-style product roadmap and release plan."
