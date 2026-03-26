@@ -1,14 +1,14 @@
 # hwskills
 
-Huawei-style strategy, market, product, service, and transformation skill family for Codex.
+面向 Codex 的华为式战略、市场、产品、服务与变革方法 skill 集合。
 
-[中文说明](README.zh-CN.md)
+[English](README.md)
 
-## Included skill families
+## 包含的 skill 家族
 
-This repo currently includes two parallel sets of Huawei-oriented skills under [skills](skills):
+当前仓库在 [skills](skills) 目录下包含两套并行的华为方法 skill：
 
-- English:
+- 英文版：
   - `huawei-methods`
   - `huawei-strategy-principles`
   - `huawei-market-principles`
@@ -22,7 +22,7 @@ This repo currently includes two parallel sets of Huawei-oriented skills under [
   - `service-itr-execution`
   - `transformation-pmo-execution`
 
-- Chinese:
+- 中文版：
   - `zh-huawei-methods`
   - `zh-huawei-strategy-principles`
   - `zh-huawei-market-principles`
@@ -36,21 +36,21 @@ This repo currently includes two parallel sets of Huawei-oriented skills under [
   - `zh-service-itr-execution`
   - `zh-transformation-pmo-execution`
 
-## Project structure
+## 项目结构
 
-- [skills](skills): skill folders ready to be installed or copied into a Codex skills directory
-- [docs/audits](docs/audits): audit reports and comparative reviews
+- [skills](skills)：可直接安装或复制到 Codex skills 目录的 skill 文件夹
+- [docs/audits](docs/audits)：审计报告和对比评审材料
 
-## Install
+## 安装
 
-Copy the desired skill folders into your Codex skills directory:
+把所需的 skill 目录复制到你的 Codex skills 目录：
 
 ```bash
 cp -R skills/* "${CODEX_HOME:-$HOME/.codex}/skills/"
 ```
 
-## Notes
+## 说明
 
-- This repo only vendors the Huawei-oriented skill family.
-- Comparative audit notes against gstack are preserved in [docs/audits/2026-03-27-skill-system-audit.md](docs/audits/2026-03-27-skill-system-audit.md).
-- gstack skill code is not copied into this repository.
+- 本仓库只收录华为方法论 skill 家族。
+- 与 gstack 的对比审计报告保存在 [docs/audits/2026-03-27-skill-system-audit.md](docs/audits/2026-03-27-skill-system-audit.md)。
+- 本仓库未拷贝 gstack 的 skill 源码。
