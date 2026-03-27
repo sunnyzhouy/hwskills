@@ -4,6 +4,8 @@
 
 ## 路由表
 
+- 用户要解读老板讲话、老板战略、管理思想、产品方向、批注真实含义：
+  先用 `zh-leadership-intent-decoder`，再按落点接 `zh-huawei-strategy-principles`、`zh-huawei-market-principles` 或 `zh-product-planning-execution`
 - 用户要战略诊断、年度经营计划、战略汇报：
   先用 `zh-huawei-strategy-principles` 判断逻辑质量，再用 `zh-strategy-blm-dste-execution`
 - 用户要市场细分、目标市场选择、机会排序：
@@ -21,6 +23,7 @@
 
 ## 常见组合
 
+- `方法总入口 -> 老板意图解码 -> 战略原则/市场原则/产品规划`
 - `方法总入口 -> 战略原则 -> 战略执行 -> 产品规划 -> IPD 执行`
 - `方法总入口 -> 市场原则 -> 市场执行 -> 产品规划`
 - `方法总入口 -> 销售 LTC -> 服务 ITR`

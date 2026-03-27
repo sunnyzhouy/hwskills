@@ -1,0 +1,4 @@
+interface:
+  display_name: "老板意图解码"
+  short_description: "解读老板战略、思想与产品方向"
+  default_prompt: "Use $zh-leadership-intent-decoder to interpret a leader's strategy, management thinking, or product direction from Chinese source material."

@@ -4,6 +4,8 @@ Use these suggestions after the main answer, not before the user gets value.
 
 ## Routing table
 
+- User asks to interpret boss speeches, founder comments, CEO notes, management thinking, or product-direction signals:
+  Recommend `leadership-intent-decoder` first, then hand off to `huawei-strategy-principles`, `huawei-market-principles`, or `product-planning-execution` based on the decoded implication.
 - User asks for strategic diagnosis, annual BP, executive strategy memo:
   Recommend `huawei-strategy-principles` first if the logic is weak, then `strategy-blm-dste-execution`.
 - User asks for market segmentation, target market selection, opportunity ranking:
@@ -23,6 +25,8 @@ Use these suggestions after the main answer, not before the user gets value.
 
 ## Multi-stage sequences
 
+- `Leadership intent -> Strategy/Market/Product planning`
+  Use when the user starts from boss or founder material and needs it translated into action.
 - `Strategy -> Product planning -> IPD execution`
   Use when the user starts with business strategy and wants to land it in product delivery.
 - `Market -> Product planning -> IPD execution`

@@ -1,6 +1,6 @@
 ---
 name: huawei-methods
-description: Huawei-style business method router for strategy planning, market management, product planning, IPD product development, sales and service process design, and transformation rollout. Use when Codex needs to decide which Huawei-style methodology fits a business problem, sequence multiple methodology skills, or hand off from strategic planning into execution. Typical triggers include users asking how to plan strategy, roadmap, product development process, sales or service operating model, or enterprise transformation path.
+description: Huawei-style business method router for leadership-intent decoding, strategy planning, market management, product planning, IPD product development, sales and service process design, and transformation rollout. Use when Codex needs to decide which Huawei-style methodology fits a business problem, interpret a boss or founder's strategic intent, sequence multiple methodology skills, or hand off from strategic planning into execution. Typical triggers include users asking how to decode leadership strategy, plan roadmap, design product development process, improve sales or service operating model, or structure an enterprise transformation path.
 ---
 
 # Huawei Methods
@@ -13,6 +13,7 @@ Route the user to the right Huawei-style method and execution skill. Keep this s
 
 Start by placing the request into one of these stages:
 
+- `Leadership intent`: decode what a boss, founder, CEO, or BU head really means from speeches, comments, notes, and direction signals
 - `Strategy`: choose direction, ambition, business design, annual priorities
 - `Market`: segment markets, define target customers, identify opportunities
 - `Product planning`: turn strategy into roadmap, releases, and planning packages
@@ -26,6 +27,7 @@ If the user problem spans multiple stages, decompose it into phases instead of f
 
 Use this selection logic:
 
+- Ask `leadership-intent-decoder` first for boss, founder, CEO, or business-head speeches, comments, and notes when the user needs the real strategy, product direction, hidden priority, or implied constraint decoded.
 - Ask `huawei-strategy-principles` by default for three-year strategy, annual planning, business design, or operating-priority requests unless the user explicitly wants direct drafting only.
 - Ask `huawei-market-principles` by default for segmentation, target-market, or opportunity-ranking requests unless the user explicitly wants direct drafting only.
 - Ask `huawei-product-principles` by default for roadmap, release, or product-line planning requests unless the user explicitly wants direct drafting only.

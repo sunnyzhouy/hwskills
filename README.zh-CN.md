@@ -9,6 +9,7 @@
 当前仓库在 [skills](skills) 目录下包含两套并行的华为方法 skill：
 
 - 英文版：
+  - `leadership-intent-decoder`
   - `huawei-methods`
   - `huawei-strategy-principles`
   - `huawei-market-principles`
@@ -23,6 +24,7 @@
   - `transformation-pmo-execution`
 
 - 中文版：
+  - `zh-leadership-intent-decoder`
   - `zh-huawei-methods`
   - `zh-huawei-strategy-principles`
   - `zh-huawei-market-principles`

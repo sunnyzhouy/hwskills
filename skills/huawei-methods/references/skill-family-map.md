@@ -6,6 +6,8 @@ Use this file when the user asks for the whole skill system, its layers, or the 
 
 - `huawei-methods`
   Router and method selector
+- `leadership-intent-decoder`
+  Leadership-intent decoding layer for translating raw executive input into business implications
 - `huawei-*-principles`
   Abstract quality layer for strategy, market, product, and service
 - `*-execution`
@@ -14,6 +16,7 @@ Use this file when the user asks for the whole skill system, its layers, or the 
 ## Core family
 
 - Router: `huawei-methods`
+- Decode: `leadership-intent-decoder`
 - Principles:
   `huawei-strategy-principles`
   `huawei-market-principles`
@@ -30,6 +33,8 @@ Use this file when the user asks for the whole skill system, its layers, or the 
 
 ## Recommended usage sequences
 
+- Leadership-driven:
+  `huawei-methods -> leadership-intent-decoder -> huawei-strategy-principles / huawei-market-principles / product-planning-execution`
 - Strategy-driven:
   `huawei-methods -> huawei-strategy-principles -> strategy-blm-dste-execution -> product-planning-execution -> product-development-ipd-execution`
 - Market-driven:

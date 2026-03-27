@@ -9,6 +9,7 @@ Huawei-style strategy, market, product, service, and transformation skill family
 This repo currently includes two parallel sets of Huawei-oriented skills under [skills](skills):
 
 - English:
+  - `leadership-intent-decoder`
   - `huawei-methods`
   - `huawei-strategy-principles`
   - `huawei-market-principles`
@@ -23,6 +24,7 @@ This repo currently includes two parallel sets of Huawei-oriented skills under [
   - `transformation-pmo-execution`
 
 - Chinese:
+  - `zh-leadership-intent-decoder`
   - `zh-huawei-methods`
   - `zh-huawei-strategy-principles`
   - `zh-huawei-market-principles`

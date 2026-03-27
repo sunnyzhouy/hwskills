@@ -1,0 +1,4 @@
+interface:
+  display_name: "Leadership Intent Decoder"
+  short_description: "Interpret strategy and product direction from leadership input"
+  default_prompt: "Use $leadership-intent-decoder to interpret a leader's strategy, management thinking, or product direction from source material."
